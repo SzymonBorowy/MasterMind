@@ -1,0 +1,7 @@
+GRA MASTERMIND
+Przedmiot: Wstêp do informatyki
+Semsetr: 1
+Rok: 2017
+Opis:
+Gra stworzona na projekt zaliczeniowy z przedmiotu WDI.
+Ocena: 34/40
